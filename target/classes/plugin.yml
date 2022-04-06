@@ -1,0 +1,9 @@
+main: fr.death.saofrance.Main
+name: SpawnMenu
+author: [Death4Sword, Djnebertoze]
+version: 1.0
+description: SpawnMenu
+
+commands:
+  spawn:
+    description: Open Inventory to teleport player into other an other floor
